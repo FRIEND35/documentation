@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "platforms/sx.org/README.md",
+                "file": "secdisk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "secdisk"
             }
           }
         ]
@@ -162,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ebb88de14562c3a",
+  "active": "3e128c9c549240a0",
   "lastOpenFiles": [
     "platforms/sx.org/README.md",
+    "secdisk.md",
     "platforms/sx.org",
     "platforms",
     "README.md",
